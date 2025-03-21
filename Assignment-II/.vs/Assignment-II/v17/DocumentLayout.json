@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mayur\\DotNet\\Assignment-II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D93DB344-2F87-471B-AD2D-1E2B19A9892B}|Assignment-II\\Assignment-II.csproj|d:\\mayur\\dotnet\\assignment-ii\\assignment-ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D93DB344-2F87-471B-AD2D-1E2B19A9892B}|Assignment-II\\Assignment-II.csproj|solutionrelative:assignment-ii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mayur\\DotNet\\Assignment-II\\Assignment-II\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment-II\\Program.cs",
+              "ToolTip": "D:\\Mayur\\DotNet\\Assignment-II\\Assignment-II\\Program.cs",
+              "RelativeToolTip": "Assignment-II\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:15:14.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
