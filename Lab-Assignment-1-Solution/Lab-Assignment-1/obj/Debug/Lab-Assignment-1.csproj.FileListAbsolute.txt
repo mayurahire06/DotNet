@@ -1,0 +1,7 @@
+D:\Mayur\DotNet\Lab-Assignment-1-Solution\Lab-Assignment-1\bin\Debug\Lab-Assignment-1.exe.config
+D:\Mayur\DotNet\Lab-Assignment-1-Solution\Lab-Assignment-1\bin\Debug\Lab-Assignment-1.exe
+D:\Mayur\DotNet\Lab-Assignment-1-Solution\Lab-Assignment-1\bin\Debug\Lab-Assignment-1.pdb
+D:\Mayur\DotNet\Lab-Assignment-1-Solution\Lab-Assignment-1\obj\Debug\Lab-Assignment-1.csproj.AssemblyReference.cache
+D:\Mayur\DotNet\Lab-Assignment-1-Solution\Lab-Assignment-1\obj\Debug\Lab-Assignment-1.csproj.CoreCompileInputs.cache
+D:\Mayur\DotNet\Lab-Assignment-1-Solution\Lab-Assignment-1\obj\Debug\Lab-Assignment-1.exe
+D:\Mayur\DotNet\Lab-Assignment-1-Solution\Lab-Assignment-1\obj\Debug\Lab-Assignment-1.pdb
