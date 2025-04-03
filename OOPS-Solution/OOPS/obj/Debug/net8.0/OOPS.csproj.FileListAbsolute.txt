@@ -1,0 +1,15 @@
+D:\Mayur\DotNet\OOPS-Solution\OOPS\bin\Debug\net8.0\OOPS.exe
+D:\Mayur\DotNet\OOPS-Solution\OOPS\bin\Debug\net8.0\OOPS.deps.json
+D:\Mayur\DotNet\OOPS-Solution\OOPS\bin\Debug\net8.0\OOPS.runtimeconfig.json
+D:\Mayur\DotNet\OOPS-Solution\OOPS\bin\Debug\net8.0\OOPS.dll
+D:\Mayur\DotNet\OOPS-Solution\OOPS\bin\Debug\net8.0\OOPS.pdb
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\OOPS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\OOPS.AssemblyInfoInputs.cache
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\OOPS.AssemblyInfo.cs
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\OOPS.csproj.CoreCompileInputs.cache
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\OOPS.sourcelink.json
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\OOPS.dll
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\refint\OOPS.dll
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\OOPS.pdb
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\OOPS.genruntimeconfig.cache
+D:\Mayur\DotNet\OOPS-Solution\OOPS\obj\Debug\net8.0\ref\OOPS.dll
